@@ -1,0 +1,24 @@
+{
+  "name": "slot-splash",
+  "version": "0.0.0",
+  "authors": [
+    "seancusack@gmail.com"
+  ],
+  "description": "splash page for slotnhs.org",
+  "main": "index.html",
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "homepage": "slotnhs.org",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6"
+  }
+}
