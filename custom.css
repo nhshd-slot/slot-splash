@@ -5,3 +5,7 @@
 .nav-pills>li>a {
     border-radius: 0px;
 }
+
+.simple-title {
+    padding-bottom: 20px;
+}
